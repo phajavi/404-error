@@ -1,0 +1,36 @@
+ * {
+     margin: 0;
+     padding: 0;
+     word-spacing: .2em;
+ }
+ 
+ #main {
+     display: flex;
+     flex-wrap: wrap;
+     justify-content: center;
+     margin-top: 10rem
+ }
+ 
+ h1 {
+     font-size: xx-large;
+     margin-bottom: 2rem;
+ }
+ 
+ #404 {
+     margin: 0 auto;
+ }
+ 
+ img {
+     margin-right: 5rem;
+ }
+ 
+ p {
+     margin-bottom: 2rem;
+ }
+ 
+ button {
+     padding: 10px 20px 10px 20px;
+     text-align: center;
+     background-color: black;
+     color: white;
+ }
